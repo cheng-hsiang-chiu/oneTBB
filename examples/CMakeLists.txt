@@ -64,6 +64,7 @@ tbb_add_example(parallel_for tachyon)
 tbb_add_example(parallel_for_each parallel_preorder)
 
 tbb_add_example(parallel_pipeline square)
+tbb_add_example(parallel_pipeline rmsquare)
 
 tbb_add_example(parallel_reduce convex_hull)
 tbb_add_example(parallel_reduce primes)
