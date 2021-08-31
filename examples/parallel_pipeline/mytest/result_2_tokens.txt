@@ -1,0 +1,384 @@
+executing sss with 1 threads and 2 tokens for 5 times
+
+real	2m30.250s
+user	0m0.093s
+sys	0m0.034s
+----------------------------------------------------------------------------
+executing sps with 1 threads and 2 tokens for 5 times
+
+real	2m30.249s
+user	0m0.066s
+sys	0m0.060s
+----------------------------------------------------------------------------
+executing ppp with 1 threads and 2 tokens for 5 times
+
+real	2m30.249s
+user	0m0.050s
+sys	0m0.077s
+----------------------------------------------------------------------------
+executing ssp with 1 threads and 2 tokens for 5 times
+
+real	2m30.248s
+user	0m0.069s
+sys	0m0.058s
+----------------------------------------------------------------------------
+executing spp with 1 threads and 2 tokens for 5 times
+
+real	2m30.248s
+user	0m0.056s
+sys	0m0.069s
+----------------------------------------------------------------------------
+executing pss with 1 threads and 2 tokens for 5 times
+
+real	2m30.251s
+user	0m0.077s
+sys	0m0.051s
+----------------------------------------------------------------------------
+executing psp with 1 threads and 2 tokens for 5 times
+
+real	2m30.252s
+user	0m0.065s
+sys	0m0.061s
+----------------------------------------------------------------------------
+executing pps with 1 threads and 2 tokens for 5 times
+
+real	2m30.249s
+user	0m0.057s
+sys	0m0.069s
+----------------------------------------------------------------------------
+executing sss with 2 threads and 2 tokens for 5 times
+
+real	1m15.654s
+user	0m0.074s
+sys	0m0.059s
+----------------------------------------------------------------------------
+executing sps with 2 threads and 2 tokens for 5 times
+
+real	1m15.652s
+user	0m0.085s
+sys	0m0.050s
+----------------------------------------------------------------------------
+executing ppp with 2 threads and 2 tokens for 5 times
+
+real	1m15.152s
+user	0m0.052s
+sys	0m0.074s
+----------------------------------------------------------------------------
+executing ssp with 2 threads and 2 tokens for 5 times
+
+real	1m15.654s
+user	0m0.075s
+sys	0m0.058s
+----------------------------------------------------------------------------
+executing spp with 2 threads and 2 tokens for 5 times
+
+real	1m15.651s
+user	0m0.069s
+sys	0m0.062s
+----------------------------------------------------------------------------
+executing pss with 2 threads and 2 tokens for 5 times
+
+real	1m15.653s
+user	0m0.063s
+sys	0m0.073s
+----------------------------------------------------------------------------
+executing psp with 2 threads and 2 tokens for 5 times
+
+real	1m15.652s
+user	0m0.053s
+sys	0m0.082s
+----------------------------------------------------------------------------
+executing pps with 2 threads and 2 tokens for 5 times
+
+real	1m15.653s
+user	0m0.063s
+sys	0m0.071s
+----------------------------------------------------------------------------
+executing sss with 3 threads and 2 tokens for 5 times
+
+real	1m15.650s
+user	0m0.061s
+sys	0m0.074s
+----------------------------------------------------------------------------
+executing sps with 3 threads and 2 tokens for 5 times
+
+real	1m15.652s
+user	0m0.078s
+sys	0m0.060s
+----------------------------------------------------------------------------
+executing ppp with 3 threads and 2 tokens for 5 times
+
+real	1m15.149s
+user	0m0.077s
+sys	0m0.047s
+----------------------------------------------------------------------------
+executing ssp with 3 threads and 2 tokens for 5 times
+
+real	1m15.653s
+user	0m0.066s
+sys	0m0.075s
+----------------------------------------------------------------------------
+executing spp with 3 threads and 2 tokens for 5 times
+
+real	1m15.653s
+user	0m0.080s
+sys	0m0.063s
+----------------------------------------------------------------------------
+executing pss with 3 threads and 2 tokens for 5 times
+
+real	1m0.833s
+user	0m0.075s
+sys	0m0.049s
+----------------------------------------------------------------------------
+executing psp with 3 threads and 2 tokens for 5 times
+
+real	1m15.654s
+user	0m0.068s
+sys	0m0.078s
+----------------------------------------------------------------------------
+executing pps with 3 threads and 2 tokens for 5 times
+
+real	1m15.652s
+user	0m0.067s
+sys	0m0.074s
+----------------------------------------------------------------------------
+executing sss with 4 threads and 2 tokens for 5 times
+
+real	1m15.652s
+user	0m0.084s
+sys	0m0.057s
+----------------------------------------------------------------------------
+executing sps with 4 threads and 2 tokens for 5 times
+
+real	1m15.654s
+user	0m0.065s
+sys	0m0.081s
+----------------------------------------------------------------------------
+executing ppp with 4 threads and 2 tokens for 5 times
+
+real	1m15.149s
+user	0m0.059s
+sys	0m0.065s
+----------------------------------------------------------------------------
+executing ssp with 4 threads and 2 tokens for 5 times
+
+real	1m15.645s
+user	0m0.041s
+sys	0m0.100s
+----------------------------------------------------------------------------
+executing spp with 4 threads and 2 tokens for 5 times
+
+real	1m15.651s
+user	0m0.069s
+sys	0m0.063s
+----------------------------------------------------------------------------
+executing pss with 4 threads and 2 tokens for 5 times
+
+real	1m15.650s
+user	0m0.094s
+sys	0m0.052s
+----------------------------------------------------------------------------
+executing psp with 4 threads and 2 tokens for 5 times
+
+real	1m15.649s
+user	0m0.051s
+sys	0m0.087s
+----------------------------------------------------------------------------
+executing pps with 4 threads and 2 tokens for 5 times
+
+real	1m15.651s
+user	0m0.081s
+sys	0m0.066s
+----------------------------------------------------------------------------
+executing sss with 5 threads and 2 tokens for 5 times
+
+real	1m15.651s
+user	0m0.114s
+sys	0m0.040s
+----------------------------------------------------------------------------
+executing sps with 5 threads and 2 tokens for 5 times
+
+real	1m15.644s
+user	0m0.067s
+sys	0m0.079s
+----------------------------------------------------------------------------
+executing ppp with 5 threads and 2 tokens for 5 times
+
+real	1m15.147s
+user	0m0.050s
+sys	0m0.069s
+----------------------------------------------------------------------------
+executing ssp with 5 threads and 2 tokens for 5 times
+
+real	1m15.649s
+user	0m0.073s
+sys	0m0.073s
+----------------------------------------------------------------------------
+executing spp with 5 threads and 2 tokens for 5 times
+
+real	1m15.643s
+user	0m0.062s
+sys	0m0.085s
+----------------------------------------------------------------------------
+executing pss with 5 threads and 2 tokens for 5 times
+
+real	1m15.651s
+user	0m0.082s
+sys	0m0.091s
+----------------------------------------------------------------------------
+executing psp with 5 threads and 2 tokens for 5 times
+
+real	1m15.651s
+user	0m0.074s
+sys	0m0.080s
+----------------------------------------------------------------------------
+executing pps with 5 threads and 2 tokens for 5 times
+
+real	1m15.650s
+user	0m0.074s
+sys	0m0.075s
+----------------------------------------------------------------------------
+executing sss with 6 threads and 2 tokens for 5 times
+
+real	1m15.650s
+user	0m0.077s
+sys	0m0.068s
+----------------------------------------------------------------------------
+executing sps with 6 threads and 2 tokens for 5 times
+
+real	1m15.650s
+user	0m0.072s
+sys	0m0.074s
+----------------------------------------------------------------------------
+executing ppp with 6 threads and 2 tokens for 5 times
+
+real	1m15.148s
+user	0m0.047s
+sys	0m0.077s
+----------------------------------------------------------------------------
+executing ssp with 6 threads and 2 tokens for 5 times
+
+real	1m15.648s
+user	0m0.027s
+sys	0m0.114s
+----------------------------------------------------------------------------
+executing spp with 6 threads and 2 tokens for 5 times
+
+real	1m15.649s
+user	0m0.078s
+sys	0m0.060s
+----------------------------------------------------------------------------
+executing pss with 6 threads and 2 tokens for 5 times
+
+real	1m15.650s
+user	0m0.051s
+sys	0m0.098s
+----------------------------------------------------------------------------
+executing psp with 6 threads and 2 tokens for 5 times
+
+real	1m15.649s
+user	0m0.078s
+sys	0m0.066s
+----------------------------------------------------------------------------
+executing pps with 6 threads and 2 tokens for 5 times
+
+real	1m15.651s
+user	0m0.081s
+sys	0m0.069s
+----------------------------------------------------------------------------
+executing sss with 7 threads and 2 tokens for 5 times
+
+real	1m15.642s
+user	0m0.110s
+sys	0m0.059s
+----------------------------------------------------------------------------
+executing sps with 7 threads and 2 tokens for 5 times
+
+real	1m15.644s
+user	0m0.026s
+sys	0m0.119s
+----------------------------------------------------------------------------
+executing ppp with 7 threads and 2 tokens for 5 times
+
+real	1m15.136s
+user	0m0.071s
+sys	0m0.045s
+----------------------------------------------------------------------------
+executing ssp with 7 threads and 2 tokens for 5 times
+
+real	1m15.652s
+user	0m0.057s
+sys	0m0.096s
+----------------------------------------------------------------------------
+executing spp with 7 threads and 2 tokens for 5 times
+
+real	1m15.653s
+user	0m0.065s
+sys	0m0.098s
+----------------------------------------------------------------------------
+executing pss with 7 threads and 2 tokens for 5 times
+
+real	1m15.652s
+user	0m0.076s
+sys	0m0.092s
+----------------------------------------------------------------------------
+executing psp with 7 threads and 2 tokens for 5 times
+
+real	1m15.651s
+user	0m0.095s
+sys	0m0.068s
+----------------------------------------------------------------------------
+executing pps with 7 threads and 2 tokens for 5 times
+
+real	1m15.650s
+user	0m0.079s
+sys	0m0.070s
+----------------------------------------------------------------------------
+executing sss with 8 threads and 2 tokens for 5 times
+
+real	1m15.653s
+user	0m0.075s
+sys	0m0.093s
+----------------------------------------------------------------------------
+executing sps with 8 threads and 2 tokens for 5 times
+
+real	1m15.653s
+user	0m0.083s
+sys	0m0.074s
+----------------------------------------------------------------------------
+executing ppp with 8 threads and 2 tokens for 5 times
+
+real	1m15.141s
+user	0m0.070s
+sys	0m0.051s
+----------------------------------------------------------------------------
+executing ssp with 8 threads and 2 tokens for 5 times
+
+real	1m15.653s
+user	0m0.072s
+sys	0m0.086s
+----------------------------------------------------------------------------
+executing spp with 8 threads and 2 tokens for 5 times
+
+real	1m15.653s
+user	0m0.057s
+sys	0m0.112s
+----------------------------------------------------------------------------
+executing pss with 8 threads and 2 tokens for 5 times
+
+real	1m15.653s
+user	0m0.069s
+sys	0m0.111s
+----------------------------------------------------------------------------
+executing psp with 8 threads and 2 tokens for 5 times
+
+real	1m15.655s
+user	0m0.067s
+sys	0m0.120s
+----------------------------------------------------------------------------
+executing pps with 8 threads and 2 tokens for 5 times
+
+real	1m15.653s
+user	0m0.088s
+sys	0m0.073s
+----------------------------------------------------------------------------
